@@ -46,6 +46,7 @@ target 'money' do
   pod 'GoogleUtilities', :modular_headers => true
   pod 'FirebaseAnalytics'
   pod 'FirebaseMessaging'
+  pod 'FirebaseCore', :modular_headers => true
   target 'moneyTests' do
     inherit! :complete
     # Pods for testing

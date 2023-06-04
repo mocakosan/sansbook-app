@@ -2156,14 +2156,14 @@ anymatch@^3.0.3:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-appcenter-analytics@4.4.5:
+appcenter-analytics@^4.4.5:
   version "4.4.5"
   resolved "https://registry.npmjs.org/appcenter-analytics/-/appcenter-analytics-4.4.5.tgz"
   integrity sha512-zqDrI1zmjrrQFTrOyZXTmEu8ZKNkvPfI+lGG2TY94mpABB5HLqytdnZFs9hUJijXgfCHZ0bEpGm+MP3yanWpcg==
   dependencies:
     appcenter "4.4.5"
 
-appcenter-crashes@4.4.5:
+appcenter-crashes@^4.4.5:
   version "4.4.5"
   resolved "https://registry.npmjs.org/appcenter-crashes/-/appcenter-crashes-4.4.5.tgz"
   integrity sha512-B1kgD9U0SFtnrO9RRV4GmFAs5ZfU2mepnobSlzrmm2Gw2y+U55JXsf0TaQozEBBWrM1wf1COZgRr4em578dNlg==
@@ -2191,7 +2191,7 @@ appcenter-link-scripts@4.4.5:
     which "1.2.11"
     xcode "2.0.0"
 
-appcenter@4.4.5:
+appcenter@^4.4.5, appcenter@4.4.5:
   version "4.4.5"
   resolved "https://registry.npmjs.org/appcenter/-/appcenter-4.4.5.tgz"
   integrity sha512-3OPM8yOgwYyd1pBLVxra9+rAscCTEEySyxYhJYwzPw8ZjnGIJNTgDQ+YwuajoYG8vPJRbl8ZmG16wcdcMYk14g==
